@@ -1,1 +1,1 @@
-# Courseratraining
+# lab-agile-planning
